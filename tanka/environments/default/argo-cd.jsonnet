@@ -143,8 +143,8 @@
     spec: {
       project: 'default',
       source: {
-        repoURL: 'https://github.com/adinhodovic/tanka-argocd-demo',
-        path: 'tanka',
+        repoURL: 'https://github.com/developer-jfr/grafana-tanka',
+        path: '.',
         targetRevision: 'HEAD',
         plugin: {
           env: [
