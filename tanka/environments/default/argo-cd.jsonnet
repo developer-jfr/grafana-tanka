@@ -144,7 +144,7 @@
       project: 'default',
       source: {
         repoURL: 'https://github.com/developer-jfr/grafana-tanka',
-        path: '.',
+        path: 'tanka',
         targetRevision: 'HEAD',
         plugin: {
           env: [
